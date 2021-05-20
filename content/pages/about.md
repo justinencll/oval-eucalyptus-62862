@@ -32,8 +32,6 @@ layout: page
 ---
 ***4000 ABONNÉS ✨***
 
-******
-
-***IMPRESSIONS : **50k*
+IMPRESSIONS : 5*0k*
 
 ***VISITES DE PROFIL :** 2206*
