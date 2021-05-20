@@ -1,5 +1,5 @@
 ---
-title: Docks7
+title: Ré
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
