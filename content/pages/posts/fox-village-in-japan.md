@@ -1,6 +1,6 @@
 ---
 title: Réouverture des Docks76
-subtitle: 'Organisation d''un concours '
+subtitle: Organisation d'un concours à l'occasion de la réouverture des Docks76
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
