@@ -6,8 +6,8 @@ excerpt: >-
   recording light or other electromagnetic radiation, either electronically by
   means of an image sensor, or chemically by means of a light-sensitive material
   such as photographic film.
-date: '0002-01-15'
-thumb_img_path: images/8.jpg
+date: '2020-01-15'
+thumb_img_path: images/2183E045-F3E6-4257-BFC7-2384DDB6C520.JPG
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
 content_img_path: images/8.jpg
 seo:
