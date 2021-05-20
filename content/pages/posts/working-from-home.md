@@ -2,7 +2,8 @@
 title: La Demoiselle Gridou
 excerpt: Boutique rouennaise
 date: '2016-08-22'
-thumb_img_path: images/9.jpg
+thumb_img_path: >-
+  images/6F4F01E9-9D88-443B-BF5F-83EF50DBDD79-4546B04F-AC57-48B0-A663-2AF236107A4E.JPG
 thumb_img_alt: Home office setup
 content_img_path: images/9.jpg
 seo:
