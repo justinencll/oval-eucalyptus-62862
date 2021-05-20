@@ -2,11 +2,8 @@
 title: Réouverture des Docks76
 subtitle: Organisation d'un concours à l'occasion de la réouverture des Docks76
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  A l'occasion de la réouverture des centres commerciaux, les Docks76 m'ont
+  contacté pour réaliser un concours sur le feed Instagram.
 date: '2021-05-20'
 thumb_img_path: images/IMG_5436.jpg
 thumb_img_alt: Femme tenant des sacs
