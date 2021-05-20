@@ -1,5 +1,5 @@
 ---
-title: 'Réouverture '
+title: Réouverture des Docks76
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
