@@ -11,7 +11,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Mes partenariats",
                 "url": "/",
                 "style": "link"
             },
