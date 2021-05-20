@@ -1,5 +1,5 @@
 ---
-title: Mes partenariats
+title: Justinencll - Créatrice de contenus
 has_more_link: true
 more_link_text: Keep reading
 seo:
