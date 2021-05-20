@@ -4,8 +4,9 @@ subtitle: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
 excerpt: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+  Pimkie Rouen Gros Horloge participe à la phase de test RE.LOVE Pimkie : ils
+  vont proposer un corner en magasin avec des vêtements de seconde main à 30
+  euros le kg.
 thumb_img_path: images/59c336f3-a6ce-40e7-87e7-306fb45d807f.JPG
 hide_header: true
 seo:
