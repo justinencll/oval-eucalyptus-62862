@@ -1,6 +1,6 @@
 ---
 title: Partenariat NAKD
-excerpt: Création de visuel et story
+excerpt: Création de visuels et story
 date: '2018-01-09'
 thumb_img_path: images/IMG_3406.jpg
 thumb_img_alt: Icelandic horses
