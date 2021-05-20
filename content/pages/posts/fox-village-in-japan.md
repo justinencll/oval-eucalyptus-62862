@@ -1,5 +1,5 @@
 ---
-title: Ré
+title: 'Réouverture '
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
