@@ -1,7 +1,7 @@
 ---
 title: justinencll - statistiques
 subtitle: Voici les données concernant ma page Instagram.
-img_path: images/about.jpg
+img_path: images/72DFFC8B-F5C3-46CE-967C-4E7FFA9C1A86.JPG
 seo:
   title: About Me
   description: A page about me and my work
