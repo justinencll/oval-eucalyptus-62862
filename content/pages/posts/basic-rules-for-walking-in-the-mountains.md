@@ -4,7 +4,7 @@ excerpt: >-
   Partenariat avec Wild Coiffeur Coloriste, réalisation de photos Instagram et
   de story pour l'occasion.
 thumb_img_path: images/IMG_0460.JPG
-thumb_img_alt: A man standing on a rock cliff overlooking a river
+thumb_img_alt: Ombré hair
 content_img_path: images/1.jpg
 seo:
   title: Basic Rules For Walking In The Mountains
