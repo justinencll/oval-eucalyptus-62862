@@ -40,7 +40,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
-date: '2019-05-15'
+date: '2021-05-15'
 ---
 
 ![Hiking](/images/2.jpg)
